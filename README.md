@@ -29,7 +29,7 @@ The answer came out to be Python-Crash-Course-2nd-Edition
 Then should learn about basic Machine Learning. Hence figured out the best ML book.
 ![image](https://user-images.githubusercontent.com/77182591/204878229-b64f744f-1c94-4742-ba20-6b0a26463b37.png)
 
-## Scraooing Book Reviews
+## Scrapping Book Reviews
 
 Then started scrapping Amazon Book Reviews. For this I took the website link of a book from amazon along with its review page.Then with this link as an example I created a new dataframe which stored all the previous data alon with the product link and review link as new columns.
 ![image](https://user-images.githubusercontent.com/77182591/205228692-b49081cc-bb58-4ab7-a961-ef37fd2c7396.png)
